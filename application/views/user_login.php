@@ -83,8 +83,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <input type="text" class="input-holder" name="user_name" id="user_name" value="" />
             </div>
             <div class="row">
-                <label for="user_name" class="label-holder">User Name:</label>
-                <input type="text" class="input-holder" name="user_name" id="user_name" value="" />
+                <label for="password" class="label-holder">Password:</label>
+                <input type="password" class="input-holder" name="password" id="password" value="" />
             </div>
         </form>
         <p></p>
